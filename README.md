@@ -1,7 +1,3 @@
-Sure! Here's your updated `README.md` written in a normal, clean, and easy-to-read style — just like before, but with the updated folder structure and license section added.
-
----
-
 # URL Shortener
 
 A simple URL shortener built with Go (Golang). It helps you turn long links into short ones and lets you visit them again using a short code.
@@ -25,6 +21,7 @@ URL-Shortner/
 ├── go.mod
 ├── main.go
 ├── LICENSE
+├── README.md
 └── assets/
     ├── image1.png
     ├── image2.png
